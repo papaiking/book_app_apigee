@@ -26,8 +26,10 @@ Edit the JavaScript code so that it will access your app services account, Make 
 
 ## Screen short
 
-![Create new book page]((https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-08-33-56.png)
+![Create new book page](https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-08-33-56.png)
+
 Create new book page
 
 ![Book list](https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-23-48-16.png)
+
 Book list
