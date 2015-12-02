@@ -20,14 +20,14 @@ To use this sample, you should first:
 
 When you open the sample in your IDE, do the following before running the project as an Android Application:
 Edit the JavaScript code so that it will access your app services account, Make the following changes in assets/www/index.html:
-    - APIGEE_ORGNAME: Your Apigee organization. (line 14)
-    - APIGEE_APPNAME: The app in your organization. (line 15)
-    - Your username/password - line 47
+- APIGEE_ORGNAME: Your Apigee organization. (line 14)
+- APIGEE_APPNAME: The app in your organization. (line 15)
+- Your username/password - line 47
 
 ## Screen short
 
-(https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-08-33-56.png)
+![Create new book page]((https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-08-33-56.png)
 Create new book page
 
-(https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-23-48-16.png)
+![Book list](https://github.com/papaiking/book_app_apigee/blob/master/images/Screenshot_2015-12-01-23-48-16.png)
 Book list
